@@ -1,6 +1,6 @@
 [
   {"CustomerID": 1000, "CustomerName": "Test", "Approved": false},
   {"CustomerID": 1002, "CustomerName": "Test2", "Approved": false},
-  {"CustomerID": 1003, "CustomerName": "Test3", "Approved": false}
+  {"CustomerID": 1003, "CustomerName": "Test3", "Approved": true}
 ]
 
